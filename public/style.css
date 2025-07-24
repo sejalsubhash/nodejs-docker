@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff; /* Changed from gradient to white */
+  color: #333333;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.1); 
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+img {
+  height: 80px;
+  margin: 20px;
+}
+
